@@ -13,26 +13,14 @@ Ce site servira de plateforme en ligne pour présenter les produits de l'entrepr
 sur les avantages des vélomobiles en termes de confort et de coût.   
 Le site doit refléter l'image moderne et innovante de l'entreprise.  
 
-
 ## Contraintes :
 
 1. Le projet doit respecter un délai raisonnable de 5 jours  
 2. Le site doit être optimiser pour une navigation sur ordinateurs de bureau, tablettes et smartphones.  
-3. Le site doit comporter les deux photos envoyer par le client, des photo libre de droits et des liens vers ses réseaux sociaux.
-4. Le site doit comporter un formulaire de contact à chaque fin de pied de page 
-5.
-
-carte pour visualier l'usine de mendes pour faire connaitre la boite pour faire visualiser la chose
-pas besoin de texte que du lorem ipsum
-mettre form contact au pied de chaque page car opportunité pour appel à l'action pour le client donc pub
-structure une page sur le vélo mobile, une page sur l'entreprise et une page sur l'usine de mendes avec photovol écolo, cheminé par train pour le transport donc full éco
-il veut que le site colle à l'identité de l'entrerprise.
-il a deux photos qu'il souhaite intégré pour le reste on peut mettre des images libre de droits.
-couleur bleu blanc rouge made in france
-pas de page contact 
-paysage français pour les photos, images de vélo voiture et autres pour rester le côté écolo
-pourquoi pas faire un carrousel en pied de page au dessus du form 
-personne viser 30 à 40 ans classe moyenne environ qui sont écolo et qui bosse dans l'info/télétrail donc besoin de vélomobile et aussi un peu fonctionnaire de petite ville et campagne ex enseignant d'école et autres.
+3. Le site doit comporter les deux photos envoyer par le client, des photo libre de droits (ex: paysage français, voiture, vélo..) et des liens vers ses réseaux sociaux.
+4. Le site doit comporter un formulaire de contact à chaque fin de pied de page et d'une carte montrant l'emplacement de l'usine à Mendes.
+5. Le site doit être structurer de manière suivante : Une page sur le vélo mobile, une page sur l'entreprise et une page sur l'usine de Mendes qui montre que c'est une usine écologique et qui respecte l'environnement notamment par exemple grâce aux cheminement par train pour le transport.
+6. Le site doit rester sur des couleurs écologique mais rappeler également le côté Made In France de l'entreprise.
 
 ## Problématique Formulée :
 
@@ -40,15 +28,32 @@ Comment concevoir un site vitrine attrayant, informatif et sécurisé pour promo
 
 ## Recueil du Besoin Formalisé :
 
+1. Le besoin consiste à créer un site web vitrine pour l'entreprise de vélomobile de Valentin Momin.
+2. Le site doit mettre en avant les avantages des vélomobiles en termes de confort et de coût.
+3. Il doit présenter les produits disponibles, les points de vente officiels et permettre aux utilisateurs de contacter l'entreprise.
+4. Il doit refléter l'image d'innovation de l'entreprise.
+
+## Propositions de Solutions :
+
+Conception d'un site web vitrine attrayant et ergonomique.
+Création de pages dédiées à la présentation des vélomobiles, de l'entreprise et de l'usine.
+Intégration de vidéos et d'images pour illustrer les avantages des vélomobiles.
+Mise en place de mesures de sécurité pour protéger les données des utilisateurs.
+Utilisation de techniques de référencement pour améliorer la visibilité du site sur les moteurs de recherche.
+
 ## Choix des Solutions :
-Quelles technologies souhaitez vous utilisez pour la création de votre site ?
-Avez vous des demandes d'éléments spécifique à mettre en place sur le site ?
+
+Nous optons pour la création d'un site web vitrine moderne et responsive.
+Les pages seront structurées pour présenter clairement les produits, les points de vente et les contacts.
+Des mesures de sécurité standard seront mises en place.
+Une stratégie de référencement sera développée pour optimiser la visibilité en ligne.
 
 ## Objectifs du Projet :
-Quels sont les objectifs de votre entreprise pour la création de ce site ?
 
-il veut du soutiens par rapport à ce site qui fasse un max de visionnage il veut capter l'attention des gens pour être connu et que le site web soit vu pour pouvoir participer au projet nottament le vélomobile.
-il fait des conférences donc il veut que son site soit un point d'entrée pour tous les auditeurs
+Créer un site vitrine attrayant et informatif pour la création du vélomobile.
+Promouvoir les avantages des vélomobiles de l'entreprise.
+Renforcer l'image d'innovation de l'entreprise.
+Améliorer la visibilité en ligne pour être un point d'entrée pour tout les auditeurs qui l'écoute sur les vidéos et radio.
 
 ## Personas :
 
