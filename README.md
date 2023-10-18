@@ -3,11 +3,15 @@
 # Analyse du Besoin pour la Création du Site Vitrine de l'Entreprise de Vélomobile de Valentin Momin
 
 ## Contexte de l'Entreprise : 
-
+```sheel
 L'entreprise de Valentin Momin est une start-up récemment capitalisée à hauteur de plusieurs millions d'euros. Elle se spécialise dans la fabrication et la commercialisation de vélomobiles, des véhicules à trois roues propulsés par la force humaine. L'entreprise dispose d'un site de production à Mende et exploite quatre points de vente officiels à Agde, Salon-de-Provence, Saint-Nazaire et Cassis. L'avantage concurrentiel de cette entreprise réside dans le fait que ses vélomobiles offrent un meilleur confort aux utilisateurs tout en étant plus abordables que d'autres alternatives de mobilité.
+```
 
-Contexte du Projet :
-Contraintes :
+## Contexte du Projet :
+Pourquoi décidez vous aujourd'hui de lancer un site web pour propager votre produit ?
+
+## ontraintes :
+
 Problématique Formulée :
 Recueil du Besoin Formalisé :
 Choix des Solutions :
