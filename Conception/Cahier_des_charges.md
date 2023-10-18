@@ -35,31 +35,31 @@ Comment concevoir un site vitrine attrayant, informatif et sécurisé pour promo
 
 ## Propositions de Solutions :
 
-Conception d'un site web vitrine attrayant et ergonomique.
-Création de pages dédiées à la présentation des vélomobiles, de l'entreprise et de l'usine.
-Intégration de vidéos et d'images pour illustrer les avantages des vélomobiles.
-Mise en place de mesures de sécurité pour protéger les données des utilisateurs.
-Utilisation de techniques de référencement pour améliorer la visibilité du site sur les moteurs de recherche.
+- Conception d'un site web vitrine attrayant et ergonomique.
+- Création de pages dédiées à la présentation des vélomobiles, de l'entreprise et de l'usine.
+- Intégration de vidéos et d'images pour illustrer les avantages des vélomobiles.
+- Mise en place de mesures de sécurité pour protéger les données des utilisateurs.
+- Utilisation de techniques de référencement pour améliorer la visibilité du site sur les moteurs de recherche.
 
 ## Choix des Solutions :
 
-Nous optons pour la création d'un site web vitrine moderne et responsive.
-Les pages seront structurées pour présenter clairement les produits, les points de vente et les contacts.
-Des mesures de sécurité standard seront mises en place.
-Une stratégie de référencement sera développée pour optimiser la visibilité en ligne.
+- Nous optons pour la création d'un site web vitrine moderne et responsive.
+- Les pages seront structurées pour présenter clairement les produits, les points de vente et les contacts.
+- Des mesures de sécurité standard seront mises en place.
+- Une stratégie de référencement sera développée pour optimiser la visibilité en ligne.
 
 ## Objectifs du Projet :
 
-Créer un site vitrine attrayant et informatif pour la création du vélomobile.
-Promouvoir les avantages des vélomobiles de l'entreprise.
-Renforcer l'image d'innovation de l'entreprise.
-Améliorer la visibilité en ligne pour être un point d'entrée pour tout les auditeurs qui l'écoute sur les vidéos et radio.
+- Créer un site vitrine attrayant et informatif pour la création du vélomobile.
+- Promouvoir les avantages des vélomobiles de l'entreprise.
+- Renforcer l'image d'innovation de l'entreprise.
+- Améliorer la visibilité en ligne pour être un point d'entrée pour tout les auditeurs qui l'écoute sur les vidéos et radio.
 
 ## Personas :
 
-Les utilisateurs cibles sont des individus à la recherche de moyens de transport écologiques, abordables et confortables.
-Les acheteurs potentiels de vélomobiles avec un âge moyen d'une trentaines d'années faisant parties de la classe moyenne et résidant en zone péri-urbaine.
-Les curieux en quête d'informations sur les vélomobiles.
+- Les utilisateurs cibles sont des individus à la recherche de moyens de transport écologiques, abordables et confortables.
+- Les acheteurs potentiels de vélomobiles avec un âge moyen d'une trentaines d'années faisant parties de la classe moyenne et résidant en zone péri-urbaine.
+- Les curieux en quête d'informations sur les vélomobiles.
 
 ## Ligne Éditoriale :
 
