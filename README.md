@@ -4,11 +4,7 @@
 
 ## Contexte de l'Entreprise : 
 
-L'entreprise de Valentin Momin est une start-up récemment capitalisée à hauteur de plusieurs millions d'euros. Elle se spécialise dans la fabrication et la commercialisation de vélomobiles, des véhicules à trois roues propulsés par la force humaine. L'entreprise dispose d'un site de production à Mende et exploite quatre points de vente officiels à Agde, Salon-de-Provence, Saint-Nazaire et Cassis. L'avantage concurrentiel de cette entreprise réside dans le fait que ses vélomobiles offrent un meilleur confort aux utilisateurs tout en étant plus abordables que d'autres alternatives de mobilité.  
-Le vélomobile français créer ya 1 an et demi kiffe les mode de transport alternatif  
-le vélo mobile à été détruit par la voiture alors que c'est une bonne alternative pour le péri urbain et le rural de 10 à 60km de transport par jour la voiture consomme trop ecolo et econo
-L'idée était de proposé un véhicule qui va jusqua 60km et qui est écolo qui soit produit en France et qui soit abordable entre 3 et 6 k
-
+L'entreprise de Valentin Momin est une start-up récemment capitalisée à hauteur de plusieurs millions d'euros. Elle se spécialise dans la fabrication et la commercialisation de vélomobiles qui coûterai entre 3 et 6 k, des véhicules à trois roues propulsés par la force humaine qui remplacerai donc les voitures. L'entreprise dispose d'un site de production à Mende et exploite quatre points de vente officiels à Agde, Salon-de-Provence, Saint-Nazaire et Cassis. L'avantage concurrentiel de cette entreprise réside dans le fait que ses vélomobiles offrent un meilleur confort aux utilisateurs tout en étant plus abordables que d'autres alternatives de mobilité.  
 
 ## Contexte du Projet :
 
