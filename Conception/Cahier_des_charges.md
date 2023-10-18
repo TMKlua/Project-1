@@ -76,8 +76,8 @@ Nous travaillons aujourd'hui avec une équipe de quatres développeurs, Corentin
 
 ## Rétro-Planning :
 
-Phase d'analyse et de spécifications : 2 jours
-Phase de conception, de maquettage et de développement : 3 jours
+- Phase d'analyse et de spécifications : 2 jours.
+- Phase de conception, de maquettage et de développement : 3 jours.
 
 ## Carnet Produit :
 
