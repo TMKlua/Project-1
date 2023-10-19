@@ -63,7 +63,15 @@ Comment concevoir un site vitrine attrayant, informatif et sécurisé pour promo
 
 ## Ligne Éditoriale :
 
-Le site doit refléter une image d'innovation, d'écologie et de qualité. Les contenus seront rédigés de manière informative, mais engageante notamment grâce au made in France de l'entreprise.
+- Innovation Technologique : Mettez en avant les caractéristiques technologiques avancées de vos vélomobiles. Expliquez comment ils sont conçus pour offrir un moyen de transport moderne, pratique et respectueux de l'environnement.
+- Écologie et Durabilité : Soulignez l'aspect écologique de vos vélomobiles. Mettez en avant leur faible empreinte carbone, leur contribution à la réduction de la pollution de l'air et leur impact positif sur l'environnement.
+- Qualité et Fiabilité : Mettez en avant la qualité de fabrication de vos vélomobiles. Montrez comment chaque véhicule est soigneusement construit en France avec des matériaux de haute qualité pour assurer la durabilité et la sécurité.
+- Confort et Accessibilité : Expliquez comment vos vélomobiles sont conçus pour offrir un confort optimal, y compris des caractéristiques telles que des sièges ergonomiques, un espace de rangement adéquat, et une facilité d'utilisation pour une grande variété de personnes.
+- Rentabilité : Adressez-vous aux acheteurs potentiels en mettant en avant le fait que l'investissement dans un vélomobile peut générer des économies significatives à long terme par rapport à d'autres moyens de transport.
+- L'Expérience des Télétravailleurs et des Fonctionnaires : Soulignez comment les vélomobiles de Monsieur Morin sont adaptés aux besoins spécifiques des télétravailleurs, des informaticiens, et des fonctionnaires tels que les enseignants. Mettez en avant comment ces vélomobiles offrent une solution de transport idéale pour ceux qui travaillent de chez eux, contribuant ainsi à un équilibre entre vie professionnelle et vie personnelle.
+- Éducation et Sensibilisation : Offrez des informations éducatives sur les avantages des vélomobiles en tant que moyen de transport respectueux de l'environnement. Partagez des articles, des vidéos et des témoignages qui informent les curieux sur les avantages de cette solution.
+- Made in France : Insistez sur le fait que vos vélomobiles sont fabriqués en France, en mettant en avant le savoir-faire français et le soutien à l'économie locale. Encouragez la fierté nationale liée à l'achat de produits fabriqués localement.
+- La voiture : Insistez sur le fait que la voiture est très négatif pour une personne et pour l'écologie, citez la polution, le plein d'essence cher, la voiture qui coute cher ( bas de gamme 5-10k € ), les temps de trajets qui s'allonge avec les bouchons, accident fréquent.
 
 ## Cible Budget :
 
