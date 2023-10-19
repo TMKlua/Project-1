@@ -67,7 +67,7 @@ Le site doit refléter une image d'innovation, d'écologie et de qualité. Les c
 
 ## Cible Budget :
 
-Le budget alloué au projet est large (Environ 11 millions d'euros). Il devra couvrir les coûts de conception et de développement.
+Pour budgétiser ce projet nous sommes parti sur 200€j/h pour livrer le projet en 5 jours avec 4 développeurs ça nous fait un total de 4000€ pour la totalité du projet.
 
 ## Équipe :
 
@@ -76,8 +76,39 @@ Nous travaillons aujourd'hui avec une équipe de quatres développeurs, Corentin
 
 ## Rétro-Planning :
 
-- Phase d'analyse et de spécifications : 2 jours.
-- Phase de conception, de maquettage et de développement : 3 jours.
+Phase d'analyse et de spécifications : 2 journées
+- Analyse du besoin : 1/2 journée
+- Rédaction du cahier des charges : 1/2 - 1 journée
+- Recherche du personna par Medhi Midouni : 1-2h
+- Création de la ligne éditoriale par Medhi Midouni et Corentin Paulet : 1h-1.5h
+- Mise en page du cahier des charges par Thomas Poderoso : 1h
+- Mise en place du rétro-planning par Dorian Peiro : 2h
+- Mise en place du carnet produit avec git project par Dorian Peiro : 1h
+- Retour sur le cahier des charge avec le client par l'équipe : 2h
+Phase de conception, de maquettage et de développement : 3 journées
+Maquettage : 1 journée
+- Maquettage de la page à propos de l'entreprise par Thomas Poderoso : 1/2 journée
+- Maquettage de la page à propos de l'usine par Corentin Paulet : 1/2 journée
+- Maquettage de la page à propos du vélomobile par Dorian Peiro : 1/2 journée
+- Création et mise en place de la charte graphique par Medhi Midouni : 1/2 journée
+Intégration html/css : 1 journée
+- Intégration des trois pages html : 1/2 journée
+- Intégration de la page à propos de l'entreprise par Thomas Poderoso : 1/2 journée
+- Intégration de la page à propos de l'usine par Corentin Paulet : 1/2 journée
+- Intégration de la page à propos du vélomobile par Dorian Peiro : 1/2 journée
+- Intégration du formulaire de contact et de la barre de navigation pour toutes les pages par Medhi Midouni : 1/2 journée
+Mise en place du style css : 1/2 - 1 journée
+- Mise en place du style css sur la page vélomobile par Dorian Peiro : 1 journée
+- Mise en place du style css sur la page entreprise par Thomas Poderoso : 1 journée
+- Mise en place du style css sur la page usine par Corentin Paulet : 1 journée
+- Mise en place du style css sur la barre de navigation et sur le formulaire de contact par Medhi Midouni : 1 journée
+Intégration d'animation finition du responsive et ajout du js : 1.5 journée
+Intégration js (menu burger, carte leaflet et caroussel) : 1 journées
+- Intégration de la carte leaflet par Dorian Peiro : 1 journée
+- Intégration du caroussel par Thomas Poderoso : 1 journée
+- Intégration du menu burger par Medhi Midouni : 1 journée
+- Intégration des animations css par Corentin Paulet : 1 journée
+Finalisation du responsive en équipe : 1/2-1 journée
 
 ## Carnet Produit :
 
