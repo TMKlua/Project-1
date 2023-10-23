@@ -1,5 +1,11 @@
 /* Ajoutez les styles CSS pour le rendu responsive ici */
 /* Par exemple, utilisez des media queries pour définir des règles CSS spécifiques pour différentes tailles d'écran */
+img {
+    align-items: center;
+    margin-left: 26%;
+    width: 75%;
+}
+
 @media screen and (max-width: 768px) {
     .navbar {
         flex-direction: column;
@@ -45,6 +51,13 @@
     margin: 15px;
 }
 
+#map2{
+    height: 50vh;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
 
 nav{
     display: flex;
@@ -76,6 +89,8 @@ nav ul{
     border: none;
     height: 5px; /* Hauteur de la ligne */
     background: linear-gradient(to right, blue, white, red); /* Dégradé de couleurs */
+    margin-top: 5%;
+    margin-bottom: 10%;
 }
 
 .container {
@@ -103,20 +118,21 @@ h1 {
 }
 
 .center-image {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Pour centrer l'image verticalement dans la fenêtre du navigateur */
-    width: 100%;
-    height: 100%
+    /* display: flex; */
+    /* justify-content: center;
+    align-items: center; */
+    width: 100vh; /* Pour centrer l'image verticalement dans la fenêtre du navigateur */
+    width: 50%;
+    height: 50%
 }
   
 .center-image img {
     max-width: 50%; /* Définit la largeur maximale de l'image à 50% de la taille de son conteneur */
     max-height: 50vh; /* Définit la hauteur maximale de l'image à 50% de la hauteur de la fenêtre du navigateur */
-    object-fit: contain; /* Conserve les proportions de l'image tout en la centrant */
-    width: 100%;
-    height: 100%
+    /* object-fit: contain; */
+    width: 50%;
+    height: 50%;
+    margin-left: 10%;
 }
 
 form {
